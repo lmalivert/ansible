@@ -4,7 +4,7 @@
 Ansible Community Guide
 ***********************
 
-Welcome to the Ansible Community Guide!
+Welcome to the Ansible Community Guide! rebase test 
 
 The purpose of this guide is to teach you everything you need to know about being a contributing member of the Ansible community. All types of contributions are welcome and necessary to Ansible's continued success.
 
